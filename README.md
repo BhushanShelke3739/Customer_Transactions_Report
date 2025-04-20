@@ -45,6 +45,8 @@ The SQL report covers:
 ## Power BI Dashboard
 
 ![ct report1](https://github.com/user-attachments/assets/bd28ef43-5ef4-4692-bc95-62830709d853)
+![ct report2](https://github.com/user-attachments/assets/5d696e0f-0890-4508-9965-faa2c2571aa4)
+
 
 In addition to SQL reporting, a Power BI Dashboard was built to visualize:
 - Customer demographic distributions
