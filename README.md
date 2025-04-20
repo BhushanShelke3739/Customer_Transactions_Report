@@ -44,7 +44,8 @@ The SQL report covers:
 
 ## Power BI Dashboard
 
-![ct report1](https://github.com/user-attachments/assets/bd28ef43-5ef4-4692-bc95-62830709d853)
+![image](https://github.com/user-attachments/assets/c323edf0-2044-4bbb-bf64-5abe83b167bd)
+
 ![ct report2](https://github.com/user-attachments/assets/5d696e0f-0890-4508-9965-faa2c2571aa4)
 
 
